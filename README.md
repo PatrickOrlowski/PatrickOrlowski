@@ -1,6 +1,6 @@
 # Hi
 
-[<img src="https://wakatime.com/share/@orzeleagle122/6f14c942-baaf-47c3-84fd-e18d76e1e0d3.png"/>]
+<img width="200px" src="https://wakatime.com/share/@orzeleagle122/6f14c942-baaf-47c3-84fd-e18d76e1e0d3.png"/>
 
 ## Let's stay in touch:
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

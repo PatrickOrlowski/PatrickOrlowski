@@ -7,6 +7,7 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: orzeleagle122@gmail.com 
 
 ![GitHub metrics](https://metrics.lecoq.io/orzeleagle122)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orzeleagle122&layout=compact&theme=dark)](https://github.com/orzeleagle122/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orzeleagle122)](https://github.com/orzeleagle122/github-readme-stats)

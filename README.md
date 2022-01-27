@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Patryk
-![Profile views](https://gpvc.arturio.dev/orzeleagle122)  
+![Profile views](https://gpvc.arturio.dev/orzeleagle122)[![wakatime](https://wakatime.com/badge/user/c1a7a7e5-feb5-4ec6-95a9-4d486e1f6434.svg)](https://wakatime.com/@c1a7a7e5-feb5-4ec6-95a9-4d486e1f6434)
 
 Skills: REACT / JS / HTML / CSS 
 

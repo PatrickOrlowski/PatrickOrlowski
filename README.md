@@ -28,10 +28,10 @@
 ![WebStorm](https://img.shields.io/badge/Editor-WebStorm-blue?style=flat-square&logo=webstorm)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orzeleagle122&layout=compact&theme=dark)](https://github.com/orzeleagle122/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orzeleagle122&layout=compact&theme=dark)](https://github.com/orzeleagle122/github-readme-stats)
 
 [![orzeleagle122's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orzeleagle122)](https://github.com/orzeleagle122/github-readme-stats)
-
+ -->
 
 
 
